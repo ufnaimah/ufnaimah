@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ufnaimah
+- 👀 I’m interested in statistic computation
+- 🌱 I’m currently learning statistic
